@@ -22,4 +22,4 @@ Derzeitige Version: Final / Gold 1.0.2
 <p align = "justify">Der Gamemode beinhaltet alle Systeme, die zu einem Reallife Grundgerüst gehören. Fraktionen, Läden, Jobs o.Ä. - Alles wurde relativ simpel gehalten.</p>
 
 ## Installation
-<p align = "justify">Da der Gamemode mit den internen MTA-Datenbankfunktionen arbeitet, wird kein MySQL-Modul benötigt. Der Ordner 'RLGrundgeruest' muss nach 'Programme(x86)/MTA San Andreas 1.x)/server/mods/deathmatch/resources'. Anschließend muss die Datenbank 'selfmade.sql' hochgeladen werden und die Datenbankdaten müssen unter 'Main-server.lua' => Zeile 15 eingetragen werden.</p>
+<p align = "justify">Da der Gamemode mit den internen MTA-Datenbankfunktionen arbeitet, wird kein MySQL-Modul benötigt. Der Ordner 'RL' muss nach 'Programme(x86)/MTA San Andreas 1.x)/server/mods/deathmatch/resources'. Anschließend muss die Datenbank 'selfmade.sql' hochgeladen werden und die Datenbankdaten müssen unter 'Main-server.lua' => Zeile 15 eingetragen werden.</p>
