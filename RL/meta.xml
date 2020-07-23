@@ -1,0 +1,126 @@
+<meta>
+
+	<!--
+		*/FILES
+	-->
+	
+	<file src="Files/Waffenicons/0.png"/>
+	<file src="Files/Waffenicons/1.png"/>
+	<file src="Files/Waffenicons/2.png"/>
+	<file src="Files/Waffenicons/3.png"/>
+	<file src="Files/Waffenicons/4.png"/>
+	<file src="Files/Waffenicons/5.png"/>
+	<file src="Files/Waffenicons/6.png"/>
+	<file src="Files/Waffenicons/7.png"/>
+	<file src="Files/Waffenicons/8.png"/>
+	<file src="Files/Waffenicons/9.png"/>
+	<file src="Files/Waffenicons/10.png"/>
+	<file src="Files/Waffenicons/11.png"/>
+	<file src="Files/Waffenicons/12.png"/>
+	<file src="Files/Waffenicons/14.png"/>
+	<file src="Files/Waffenicons/15.png"/>
+	<file src="Files/Waffenicons/16.png"/>
+	<file src="Files/Waffenicons/17.png"/>
+	<file src="Files/Waffenicons/18.png"/>
+	<file src="Files/Waffenicons/22.png"/>
+	<file src="Files/Waffenicons/23.png"/>
+	<file src="Files/Waffenicons/24.png"/>
+	<file src="Files/Waffenicons/25.png"/>
+	<file src="Files/Waffenicons/26.png"/>
+	<file src="Files/Waffenicons/27.png"/>
+	<file src="Files/Waffenicons/28.png"/>
+	<file src="Files/Waffenicons/29.png"/>
+	<file src="Files/Waffenicons/30.png"/>
+	<file src="Files/Waffenicons/31.png"/>
+	<file src="Files/Waffenicons/32.png"/>
+	<file src="Files/Waffenicons/33.png"/>
+	<file src="Files/Waffenicons/34.png"/>
+	<file src="Files/Waffenicons/35.png"/>
+	<file src="Files/Waffenicons/36.png"/>
+	<file src="Files/Waffenicons/37.png"/>
+	<file src="Files/Waffenicons/38.png"/>
+	<file src="Files/Waffenicons/39.png"/>
+	<file src="Files/Waffenicons/40.png"/>
+	<file src="Files/Waffenicons/41.png"/>
+	<file src="Files/Waffenicons/42.png"/>
+	<file src="Files/Waffenicons/43.png"/>
+	<file src="Files/Waffenicons/44.png"/>
+	<file src="Files/Waffenicons/45.png"/>
+	<file src="Files/Waffenicons/46.png"/>
+	
+	<!--
+		*/MAPS
+	-->
+	
+	<map src = "Maps/Stadthalle.map"/>
+	<map src = "Maps/LSPD.map"/>
+	<map src = "Maps/Busjob.map"/>
+	<map src = "Maps/Yakuza.map"/>
+	
+	<!--
+		*/SCRIPTS
+	-->
+	
+	<script src = "Main-client.lua" type = "client" cache = "false"/>
+	<script src = "Main-server.lua"/>
+	
+	<script src = "Server/Teleportersystem.lua"/>
+	
+	<script src = "Server/Anmeldebereich/Server.lua"/>
+	<script src = "Client/Anmeldebereich/Client.lua" type = "client" cache = "false"/>
+	
+	<script src = "Server/Fahrzeugsystem/Server.lua"/>
+	<script src = "Client/Fahrzeugsystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "Client/Fahrzeugsystem/Fahrschule.lua" type = "client" cache = "false"/>
+	<script src = "Server/Fahrzeugsystem/Fahrschule.lua"/>
+	<script src = "Server/Fahrzeugsystem/Tankstelle.lua"/>
+	<script src = "Client/Fahrzeugsystem/Tankstelle.lua" type = "client" cache = "false"/>
+	
+	<script src = "Client/Adminsystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "Server/Adminsystem/Server.lua"/>
+	
+	<script src = "Client/Fraktionssystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "Server/Fraktionssystem/Server.lua"/>
+	<script src = "Server/Fraktionssystem/Duty.lua"/>
+	<script src = "Server/Fraktionssystem/Drogentransporter.lua"/>
+	<script src = "Client/Fraktionssystem/Drogentransporter.lua" type = "client" cache = "false"/>
+	<script src = "Server/Fraktionssystem/Fahrzeuge.lua"/>
+	<script src = "Client/Fraktionssystem/Duty.lua"  type = "client" cache = "false"/>
+	<script src = "Client/Fraktionssystem/Waffenlager.lua" type = "client" cache = "false"/>
+	<script src = "Server/Fraktionssystem/Waffenlager.lua"/>
+	<script src = "Client/Fraktionssystem/Waffentransporter.lua" type = "client" cache = "false"/>
+	<script src = "Server/Fraktionssystem/Waffentransporter.lua"/>
+	<script src = "Server/Fraktionssystem/Reporter/Server.lua"/>
+	
+	<script src = "Client/Haussystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "Server/Haussystem/Server.lua"/>
+	
+	<script src = "Client/Anzeigen/Infobox.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/Eigenmenue.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/HUD.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/Helpmenue.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/Scoreboard.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/Inventar.lua" type = "client" cache = "false"/>
+	<script src = "Client/Anzeigen/Hospital.lua" type = "client" cache = "false"/>
+	
+	<script src = "Server/Sonstiges/Eigenmenue.lua"/>
+	<script src = "Server/Sonstiges/Faggioverleih.lua"/>
+	<script src = "Server/Sonstiges/Bank.lua"/>
+	<script src = "Client/Sonstiges/Bank.lua" type = "client" cache = "false"/>
+	<script src = "Client/Sonstiges/Peds.lua" type = "client" cache = "false"/>
+	<script src = "Server/Sonstiges/Blips.lua"/>
+	<script src = "Server/Sonstiges/Gates.lua"/>
+	<script src = "Server/Sonstiges/Inventar.lua"/>
+	
+	<script src = "Server/Jobsystem/Busfahrer/Server.lua"/>
+	<script src = "Client/Jobsystem/Busfahrer/Client.lua" type = "client" cache = "false"/>
+	<script src = "Client/Jobsystem/Jobcenter.lua" type = "client" cache = "false"/>
+	<script src = "Server/Jobsystem/Pizzalieferant/Server.lua"/>
+	<script src = "Client/Jobsystem/Pizzalieferant/Client.lua" type = "client" cache = "false"/>
+	
+	<script src = "Client/Shops/Ammunation.lua" type = "client" cache = "false"/>
+	<script src = "Client/Shops/Supermarkt.lua" type = "client" cache = "false"/>
+	<script src = "Server/Shops/Supermarkt.lua"/>
+	<script src = "Server/Shops/Ammunation.lua"/>
+	
+</meta>
