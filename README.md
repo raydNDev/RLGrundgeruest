@@ -12,7 +12,7 @@
 </p>
 
 ## Entwicklung
-<p align = "justify">Die Entwicklung an diesem Reallife Grundgerüst begann im August 2018. Es wurde in Form einer Video-Tutorialreihe entwickelt, die mittlerweile allerdings nicht mehr existiert. Es folgten kleinere Bugfixes, mittlerweile wurde die Entwicklung an diesem Gamemode allerdings komplett eingestellt.
+<p align = "justify">Die Entwicklung an diesem Reallife Grundgerüst begann im August 2018. Es wurde in Form einer Video-Tutorialreihe entwickelt, die mittlerweile allerdings nicht mehr existiert. Es folgten kleinere Bugfixes, mittlerweile wurde die Entwicklung an diesem Gamemode allerdings komplett eingestellt. Der Support wurde ebenfalls eingestellt.
 
 Veröffentlichung: August 2018 - Letztes Update: 20.11.2019
 Derzeitige Version: Final / Gold 1.0.2
